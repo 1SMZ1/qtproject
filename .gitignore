@@ -1,0 +1,49 @@
+# Qt build directories
+build-*/
+
+# Qt Creator user files
+*.pro.user
+*.pro.user.*
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+
+# Qt Creator generated files
+moc_*.cpp
+qrc_*.cpp
+
+# Makefiles
+Makefile
+Makefile.*
+object_script.*
+
+# Qt Creator stash
+.qmake.stash
+
+# IDE files
+*.swp
+*.swo
+*~
+.vs/
+.vscode/
+.idea/
+*.sdf
+*.opensdf
+
+# OS files
+Thumbs.db
+.DS_Store
